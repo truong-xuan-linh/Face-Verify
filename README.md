@@ -8,7 +8,7 @@ git clone https://github.com/truong-xuan-linh/Face-Verify.git
 pip install -r requirements.txt
 ```
 
-**Bước 3:** Khởi chạy 
+**Bước 3:** Khởi chạy web app
 ```
 streamlit run main.py
 ```
